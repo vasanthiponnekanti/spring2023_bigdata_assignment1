@@ -6,3 +6,5 @@ added the sql file
 Person2: Sharmisha Yelapati
 
 Created a new column status CHAR(1)
+
+Person 3: Vasanthi Ponnekanti Added a new column called phone varchar(12)
